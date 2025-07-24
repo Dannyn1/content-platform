@@ -6,6 +6,7 @@ export function Header() {
           <span className="text-white font-bold text-sm">C</span>
         </div>
         <span className="font-semibold text-gray-900">Chyvrid</span>
+        <span className="bg-blue-100 text-blue-600 text-xs px-2 py-1 rounded font-medium">BETA</span>
       </div>
       <div className="w-10 h-10 bg-green-500 rounded-full"></div>
     </header>
